@@ -1,21 +1,20 @@
-Address,Client Address,Client Matching types ,Client Name,Company Salary,Hiring Date,Last Visa Step,Live out type,Maid ID,Maid Name,Matching types,Nationality,Number of days in this status,Status,Index,Latitude,Longitude
-67HG+744 Dubai - United Arab Emirates,,,,3000,2024-09-23 14:22:39,,CC Live IN Maid,42957,MIRAJIE ASUMBAC PIQUERO,"Has 3 kids or more,Has a baby younger than 2 years old,Lives in Abu Dhabi",Filipina,0,AVAILABLE,332,25.22813750,55.27532810
-67RJ+JGV Dubai - United Arab Emirates,,,,3200,2024-12-13 14:23:14,Receival of EID Card,CC Live IN Maid,33018,Marlita Tapiru Legaspe,"Has a baby younger than 2 years old,Give day off other than Sunday Negation,Lives in Abu Dhabi",Filipina,0,AVAILABLE,155,25.24161250,55.28129690
-"Abu Shakra Restaurant & Cafe Building, room 1105. 22 Al Maktoum Rd - Deira",,,,1950,2024-05-16 11:53:52,,Wild Maid,63576,SALOME WANJIKU MUMBI,"Has a cat,Has a dog,Lives in Abu Dhabi",African,0,AVAILABLE,633,25.26212640,55.31756770
-Al Baraha,,,,1950,2024-12-18 12:49:40,Receival of EID Card,Wild Maid,77562,ANGEL KABUGHO ,"Has a baby younger than 2 years old,Has 3 kids or more,Has a dog,Lives in Abu Dhabi",African,0,AVAILABLE,901,25.28198970,55.31849640
-Al barsha1 near mall of emirates,,,,1950,2024-12-16 11:14:28,"Check tasheel contract approval,prepare_eid_application_for_modification",Wild Maid,77280,NAOMI WANJERI NJERI ,"Give day off other than Sunday Negation,Has a dog",African,1,AVAILABLE,892,25.11080250,55.19554450
-"Al Ramth 16, Room 210
-2723+7WP - Rosa Rd - Remraam - Dubai",,,,1950,2024-09-28 13:12:58,,Wild Maid,72023,AGNES NYAWIRA MURIITHI,"Has a baby younger than 2 years old,Has a cat",African,0,AVAILABLE,830,25.00070860,55.25483300
-"Al rigga , union metro station",,,,1950,2025-01-09 11:03:31,,MV Maid,72074,AFI EPIPHANIE LOKOSSOU,"Give day off other than Sunday Negation,Has 3 kids or more,Lives in Abu Dhabi",African,1,AVAILABLE,832,25.26633610,55.31450540
-Alqantara building sharjah,,,,1950,2024-12-09 13:44:14,Receival of EID Card,Wild Maid,76515,ESTHER NJERI MWANGI ,"Has a baby younger than 2 years old,Has a dog",African,0,AVAILABLE,882,25.35616980,55.42721100
-Deira Dubai,,,,1950,2025-01-06 13:51:39,,Wild Maid,79011,OLIVIA ASIIMWE ,"Has a cat,Has a dog,Lives in Abu Dhabi",African,0,AVAILABLE,935,25.27884680,55.33093950
-"https://maps.app.goo.gl/b49CcTYNTLUzETmu9
-Flat 102  al raffa, imperium building dubai.",,,,3200,2024-03-14 12:04:42,,Wild Maid,52601,Leonila Lacerna Rey,Has a baby younger than 2 years old,Filipina,0,AVAILABLE,531,25.25134330,55.28707300
-satwa,,,,1950,2024-12-16 12:57:33,"Check tasheel contract approval,Receival of EID Card",Wild Maid,77291,NAOMI WANGARI KAMAU ,"Has a baby younger than 2 years old,Has a dog,Lives in Abu Dhabi",African,1,AVAILABLE,894,25.21937000,55.27288700
-"Satwa , infront of big mosque , grand outlet",,,,3000,2025-01-04 13:37:29,,MV Maid,42074,NERIZA ALEGRE GUARDINO ,"Give day off other than Sunday Negation,Has 3 kids or more,Lives in Abu Dhabi",Filipina,0,AVAILABLE,313,25.21937000,55.27288700
-"satwa , near satwa clinic beside the bus station",,,,3200,2025-01-08 11:05:43,,CC Live IN Maid,10856,Marilou Asilo Hernandez,"Give day off other than Sunday Negation,Has 3 kids or more,Has a cat,Has a dog",Filipina,0,AVAILABLE,2,25.21937000,55.27288700
-"satwa , nesto building , al bada street",,,,3000,2025-01-08 12:14:22,,MV Maid,64444,MARIFEL MARTINEZ ORLAIN,"Has 3 kids or more,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,0,AVAILABLE,686,25.22670500,55.28241080
-"Sharjah, almajaz 2",,,,1950,2024-12-13 16:08:29,Check tasheel contract approval,Wild Maid,76983,HILDAH NATUKUNDA,"Has a baby younger than 2 years old,Has a dog,Lives in Abu Dhabi",African,0,AVAILABLE,888,25.32253010,55.38743200
-"Villa 2, near Ravi restaurant, Satwa - Dubai
-7HQQ67MH+CJ - 8 9th St - Al Satwa - Dubai",,,,1950,2024-09-24 11:02:13,,Wild Maid,71778,JANE KARIMI SAMSON,"Has a baby younger than 2 years old,Has a dog,Lives in Abu Dhabi",African,4,AVAILABLE,816,25.23264260,55.27908340
-"Villa 25, Opp Abu Hail clinic Al Rasheed Road, Hor Al Az, Deira",,,,1950,2025-01-13 09:20:13,Receival of EID Card,Wild Maid,79553,MARGARET WANGARI WAHU ,Lives in Abu Dhabi,African,0,AVAILABLE,941,25.28200100,55.33348350
+Maid Name,Matching types,Nationality,Address,Latitude,Longitude
+Grace Maibaroi Mollel,"Give day off other than Sunday Negation,Has 3 kids or more,Has a cat,Lives in Abu Dhabi",African,"25?12'45.0""N 55?15'47.7""E",25.21250000,55.26325000
+Marlita Tapiru Legaspe,"Has a baby younger than 2 years old,Give day off other than Sunday Negation,Lives in Abu Dhabi",Filipina,67RJ+JGV Dubai - United Arab Emirates,25.24161250,55.28129690
+MARY JANE BUIZON DUKA,Lives in Abu Dhabi,Filipina,608 JUMA BLDG. ALBARSHA 1 DUBAI,25.10992620,55.19705760
+ANGEL KABUGHO ,"Has a baby younger than 2 years old,Has 3 kids or more,Has a dog,Lives in Abu Dhabi",African,Al Baraha,25.28198970,55.31849640
+NAOMI WANJERI NJERI ,"Give day off other than Sunday Negation,Has a dog",African,Al barsha1 near mall of emirates,25.11080250,55.19554450
+AGNES NYAWIRA MURIITHI,"Has a baby younger than 2 years old,Has a cat",African,"Al Ramth 16, Room 210
+2723+7WP - Rosa Rd - Remraam - Dubai",25.00070860,55.25483300
+AFI EPIPHANIE LOKOSSOU,"Give day off other than Sunday Negation,Has 3 kids or more,Lives in Abu Dhabi",African,"Al rigga , union metro station",25.26633610,55.31450540
+ESTHER NJERI MWANGI ,"Has a baby younger than 2 years old,Has a dog",African,Alqantara building sharjah,25.35616980,55.42721100
+OLIVIA ASIIMWE ,"Has a cat,Has a dog,Lives in Abu Dhabi",African,Deira Dubai,25.27884680,55.33093950
+Leonila Lacerna Rey,Has a baby younger than 2 years old,Filipina,"https://maps.app.goo.gl/b49CcTYNTLUzETmu9
+Flat 102  al raffa, imperium building dubai.",25.25134330,55.28707300
+NAOMI WANGARI KAMAU ,"Has a baby younger than 2 years old,Has a dog,Lives in Abu Dhabi",African,satwa,25.21937000,55.27288700
+Marilou Asilo Hernandez,"Give day off other than Sunday Negation,Has 3 kids or more,Has a cat,Has a dog",Filipina,"satwa , near satwa clinic beside the bus station",25.21937000,55.27288700
+MARIFEL MARTINEZ ORLAIN,"Has 3 kids or more,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,"satwa , nesto building , al bada street",25.22670500,55.28241080
+HILDAH NATUKUNDA,"Has a baby younger than 2 years old,Has a dog,Lives in Abu Dhabi",African,"Sharjah, almajaz 2",25.32253010,55.38743200
+JANE KARIMI SAMSON,"Has a baby younger than 2 years old,Has a dog,Lives in Abu Dhabi",African,"Villa 2, near Ravi restaurant, Satwa - Dubai
+7HQQ67MH+CJ - 8 9th St - Al Satwa - Dubai",25.23264260,55.27908340
+MARGARET WANGARI WAHU ,Lives in Abu Dhabi,African,"Villa 25, Opp Abu Hail clinic Al Rasheed Road, Hor Al Az, Deira",25.28200100,55.33348350
