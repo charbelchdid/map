@@ -1,6 +1,4 @@
 Maid Name,Matching types,Nationality,Address,Latitude,Longitude
-MONINA GIDO DUMAS,Lives in Abu Dhabi,Filipina,"6 23rd St - Al Hudaiba - Dubai. 
-67QH+2C3 Dubai",25.2374354,55.2784194
 HELLEN NAKATO NANKINGA,"Has a dog,Lives in Abu Dhabi",African,"25.277403, 55.314714",25.2773138,55.3147523
 ANNE WAITHERA WAIRIMU,"Has a baby younger than 2 years old,Lives in Abu Dhabi",African,"25?06'54.5""N 55?12'10.8""E",25.118107,55.200608
 CECILIA MUTHONI GITHINJI,"Give day off other than Sunday Negation,Has a cat,Lives in Abu Dhabi",African,"25?12'17.0""N 55?16'10.8""E",25.2048493,55.2707828
@@ -16,10 +14,11 @@ Elizabeth Zanabu Sabogu,"Has a baby younger than 2 years old,Has a cat,Has a dog
 Mariam Wanyana,"Has 3 kids or more,Has a cat,Has a dog,Lives in Abu Dhabi",African,- Address: Al barsha - al zaroni building - room no 402 - landmark - Mall of emirates,25.083827,55.220397
 Marilou Torres De Queros,"Has a private room,Lives in Abu Dhabi",Filipina,- Address: Satwa,25.21937,55.272887
 Nenita Vileganilao Carabio,"Give day off other than Sunday Negation,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,- Address: Satwa - Doctor building - room 104,25.21937,55.272887
+Esther Njeri Waithera ,"Has a baby younger than 2 years old,Give day off other than Sunday Negation,Has 3 kids or more,Lives in Abu Dhabi",African,- Address: Satwa.,25.21937,55.272887
 Ma Victoria Ortega Bonita,Lives in Abu Dhabi,Filipina,- Address: Villa 91 22b street - al bada - satwa,25.2253775,55.2712649
 Geraldine Rodriguez Beriarmente,"Has a baby younger than 2 years old,Lives in Abu Dhabi",Filipina,".AL SHARHAN BUILDING BLOCK A 707, AL RIGGA DUBAI..
 786C+X7P Dubai - United Arab Emirates",25.2636903,55.3226128
-LEONY ANDRES CARDENAS ,"Has a baby younger than 2 years old,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,Address: 18 b street villa 50 - al rashidiya dubai,25.2174976,55.4134753
+LEIZEL DELAY BAHURAY ,"Give day off other than Sunday Negation,Has a dog,Lives in Abu Dhabi",Filipina,Address: 12 B Street - Villa 80 - Al badaha - Satwa,25.21937,55.272887
 RICHELLE LUMACTOD GUMAHAD,"Has a baby younger than 2 years old,Lives in Abu Dhabi",Filipina,Address: Al badaa - Satwa - Villa 11,25.2247272,55.2687419
 MARIA JOSEPHINE BELANO CORPUZ,"Give day off other than Sunday Negation,Lives in Abu Dhabi",Filipina,Address: Al jadaf - Bin hati avenue -,25.216757,55.3309395
 EMILY MONIZA DARUNDAY,"Has a baby younger than 2 years old,Lives in Abu Dhabi",Filipina,Address: Al Rigga,25.2675792,55.3129667
@@ -63,6 +62,7 @@ NILDA CARTA TUGAS,"Has 3 kids or more,Has a cat,Has a dog,Lives in Abu Dhabi",Fi
 SOFIA GLADYS WAIRIMU MUTHONI,"Has a baby younger than 2 years old,Has 3 kids or more,Has a cat,Has a dog,Lives in Abu Dhabi",African,Qasimi building Muraqqabat deira,25.2684261,55.3288171
 AGNES NYAWIRA MURIITHI,"Has a baby younger than 2 years old,Give day off other than Sunday Negation,Has a cat,Has a dog,Lives in Abu Dhabi",African,"Rose Plaza Hotel - Al Barsha, Near Mall of the Emirates - Al Barsha 1 - Dubai
 4673+R2 Dubai",25.1145043,55.2025778
+JACKIE NABUKALU,"Has a cat,Has a dog,Lives in Abu Dhabi",African,"Salah Al Din St, Deira next to metro station - Dubai",25.2710278,55.3328803
 Dionisia Camang Calagui,"Give day off other than Sunday Negation,Lives in Abu Dhabi",Filipina,Satwa,25.21937,55.272887
 Zipporah Njeri Muchami,Lives in Abu Dhabi,African,"Satwa 
 25?14'20.9""N 55?16'58.2""E",25.21937,55.272887
