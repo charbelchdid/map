@@ -1,5 +1,4 @@
 Maid Name,Matching types,Nationality,Address,Latitude,Longitude
-ELIZABETH DELA CRUZ DUERME,"Has a baby younger than 2 years old,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,7CVQ+X5X Sharjah - United Arab Emirates,25.2949875,55.4379844
 MARY NJERI WANG OMBE,"Give day off other than Sunday Negation,Lives in Abu Dhabi",African,15 11B St - Al Quoz - Industrial Second - Dubai - United Arab Emirates,25.1373713,55.253783
 Brenda Biano Pua,"Has a baby younger than 2 years old,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,"21 15B St - Al Wasl - Dubai
 https://maps.app.goo.gl/thAALx9sJeaC9XP3A",25.1698768,55.2413349
@@ -31,6 +30,7 @@ JERIDAH ASIKO KUSALE,Lives in Abu Dhabi,African,78JW+27 Dubai - United Arab Emir
 Immaculate Nalunkuma,"Has a baby younger than 2 years old,Give day off other than Sunday Negation,Lives in Abu Dhabi",African,788G+VR2 - ???? -??- ? - Deira - Dubai - United Arab Emirates,25.2720643,55.3072826
 MARION CHEPKOECH,"Has 3 kids or more,Has a baby younger than 2 years old,Has a cat,Lives in Abu Dhabi",African,789G+QF5 Dubai - United Arab Emirates,25.2693875,55.3262344
 Elizabeth Zanabu Sabogu,"Has a baby younger than 2 years old,Has a cat,Has a dog,Lives in Abu Dhabi",African,995P+X3 Sharjah - United Arab Emirates,25.3599375,55.3851875
+TABITHA NJERI MUYA,"Has a cat,Has a dog,Lives in Abu Dhabi",African,4663+5PM Dubai - United Arab Emirates,25.1104625,55.2042969
 Juvy Onotan Bato,"Has a baby younger than 2 years old,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,6739+WRF Dubai - United Arab Emirates,25.2048125,55.2695469
 SAMBA FADIMATOU,"Has a cat,Has a dog,Lives in Abu Dhabi",African,7884+M5R Dubai - United Arab Emirates,25.2667375,55.3053906
 Getrude Mwango Riendo,"Has a baby younger than 2 years old,Has a cat,Has a dog,Lives in Abu Dhabi",African,7888+32 Dubai - United Arab Emirates,25.2651875,55.3150625
@@ -46,6 +46,7 @@ IRENE GARDE SALE,"Has 3 kids or more,Lives in Abu Dhabi",Filipina,Address: Al Sa
 PATRICIA MANALO VILLAPANDO,"Has a baby younger than 2 years old,Has 3 kids or more,Lives in Abu Dhabi",Filipina,Address: International City,25.1648925,55.4084034
 AIZA RALA REPUYAN,"Give day off other than Sunday Negation,Has a baby younger than 2 years old,Lives in Abu Dhabi",Filipina,Address: Room 305 - old kamani - hor al lanz - dubai,25.2711332,55.3798527
 MARICEL ANINIPOT CANCERAN,"Has a dog,Lives in Abu Dhabi",Filipina,Address: Salah-aldin Diera - Bafta building - flat 305 - Block A,25.2788468,55.3309395
+CLARITA LACHICA CAMPO,"Has a baby younger than 2 years old,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,Address: Satwa - Al gubaiba - Villa 16 - 15 street,25.21937,55.272887
 VENISSE SANDRA ALEJANDRO LIBERTINO,"Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,Address: Satwa - nesto building - room 303,25.21937,55.272887
 MARHAMA KAMONNO JHOVEL ,"Has 3 kids or more,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,Address: Satwa - Star Bolga restaurant,25.2361151,55.2776252
 DIONILYN TOLETE MOLINA,"Has a baby younger than 2 years old,Lives in Abu Dhabi",Filipina,Address: Satwa - Villa 77 - Al badaha,25.21937,55.272887
@@ -56,7 +57,6 @@ https://maps.app.goo.gl/FX5DEJjYLN6eSbweA",25.2618841,55.3273209
 Erlinda Villamor Chavez,"Has a baby younger than 2 years old,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,"Al Maya Supermarket Satwa Branch, 34 Al Hudeiba St - Al Bada'a - Dubai",25.2293396,55.273455
 Myriame Sylvia Razafindrakoto,"Has a baby younger than 2 years old,Has a cat,Lives in Abu Dhabi",African,"Al nadah 2, luzan building - apartment 1202. Dubai. UAE",25.2633487,55.3877338
 Sharifa Fatima Taning Bassal,"Has 3 kids or more,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,"Al Rigga, Building in front of Landmark Hotel, apartment 206",25.2675792,55.3129667
-RESTY NAMIYINGO,"Has a cat,Has a dog,Lives in Abu Dhabi",African,"Al rigga, near chinan sea restaurant",25.2675792,55.3129667
 Resty Namulondo,Lives in Abu Dhabi,African,"Al Wasl building, room 603 , behind KFC. Al Nahda Park Sharjah
 https://maps.app.goo.gl/dvVNC9YEx5Ziy1Wy6",25.2768473,55.4110848
 SHIELA MAE VERDAD MISSION,"Has a baby younger than 2 years old,Give day off other than Sunday Negation,Lives in Abu Dhabi",Filipina,"behind al maya, satwa dubai.",25.21937,55.272887
@@ -65,12 +65,16 @@ Near Islamic Information Centre Al Bada'a - Al Satwa - Dubai",25.2327936,55.2735
 SUMAIAH NABASUTA,"Has 3 kids or more,Has a cat,Has a dog,Lives in Abu Dhabi",African,Deira Brazillian,25.2788468,55.3309395
 Louning Tabogon Torena,"Has a baby younger than 2 years old,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,"Deira center , al buhaira insurance building",25.2788468,55.3309395
 ROSE MARIE PATRICIO BASA,"Has 3 kids or more,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,"DEYAAR BUILDING NO.7, 36A STREET, DEIRA, DUBAI",25.2624951,55.3226288
+Lydia Shakirah Nampiima,"Give day off other than Sunday Negation,Has a baby younger than 2 years old,Has a dog,Lives in Abu Dhabi",African,"Deyaar Building No.139, 
+24 6th St - Deira - Dubai,
+78H7+XR Dubai",25.2799212,55.3145806
 ANNE WANJIRU NJOROGE,"Has a baby younger than 2 years old,Lives in Abu Dhabi",African,"https://maps.app.goo.gl/Qr1SBRBmiJWJGS21A
 25?14'26.3""N 55?17'04.0""E
 67RM+7Q4 Dubai - United Arab Emirates",25.3684114,55.4218521
 AIDA YSULAN VILLANUEVA,"Give day off other than Sunday Negation,Has 3 kids or more,Lives in Abu Dhabi",Filipina,https://maps.app.goo.gl/REYVgpuF1rVsdQq98,25.22615636,55.26909194
 Specioza Nakyobe,"Has 3 kids or more,Has a cat,Has a dog,Lives in Abu Dhabi",African,"InsuranceMarket Metro Station, 457R+W9 Dubai",25.1148604,55.1909563
 MARILOU KINAADMAN PRESAS,"Give day off other than Sunday Negation,Lives in Abu Dhabi",Filipina,Murraqabat,25.2653598,55.3240264
+GINA MALVAR FLORES,Lives in Abu Dhabi,Filipina,NASA Building - Omar Bin Al Khattab St - opposite Union Metro Station - Deira - Dubai. 7888+32 Dubai,25.27181530,55.31606610
 SOFIA GLADYS WAIRIMU MUTHONI,"Has a baby younger than 2 years old,Has 3 kids or more,Lives in Abu Dhabi",African,Qasimi building Muraqqabat deira,25.2684261,55.3288171
 Maria Theresa Villanueva Fanugan,"Has a baby younger than 2 years old,Lives in Abu Dhabi",Filipina,"Ribbon Building, flat 303. Al Satwa. Near Big Mosque.
 https://maps.app.goo.gl/JA2GwJr7yjqHweGP9",25.21937,55.272887
