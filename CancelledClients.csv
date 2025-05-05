@@ -28,7 +28,7 @@ Justas Zelba,"Filipina,Has a baby younger than 2 years old,Has a private room,Li
 Khaled Essam Gamaleldin Abdelrahman,"Ethiopian Maid,West African Nationality,Has a baby younger than 2 years old,Give day off other than Sunday Negation","The Residence IV, JVC. Apartment 306",55.20304120,25.04629460,
 Mai Shaaban Mohamed Hegazy,Filipina,7HQQ27FC+9M,55.27165510,25.02343530,
 Cynthia Venture,"Filipina,Has a baby younger than 2 years old,Has a private room,Live Out,< 40 Years old","Downtown Dubai, 48 Burj Gate Residence, Unit 3107",55.26894940,25.20018400,
-Milad Mahmoodi,Filipina,7HQQ57VM+JR,55.28459320,25.19401960,
+Milad Mahmoodi,"Filipina,Live Out,Has a baby younger than 2 years old","Collective 2.0, dubai hills. Apartment 502",55.28459320,25.19401960,
 Khalil Ashif Kassam,"Filipina,Has a baby younger than 2 years old,Has a dog,Live Out,Has a cat",Zaya Hameni JVC Dubai apartment W3004,55.20511710,25.05634240,
 Youlia Nassar,"Has a baby younger than 2 years old,< 40 Years old,Live Out,Filipina",7HQQ26JM+8F,55.23366060,25.03081760,
 Harry,"Live Out,Filipina","Mohammed bin rashid district 1, town house 10, Meydan ",55.27665740,25.16637580,
@@ -799,7 +799,7 @@ Claudia Rebecca Tishbi,"Live Out,Work on her day off for pay,Lives in Abu Dhabi,
 Abdulrazzak Mahmoud Sawas Najjar,"Has a private room,Live Out,Filipina",7HQQ27HF+WP,55.27427610,25.02984610,
 Siddarth Ramaswamy Ramaswamy,"Has a dog,Has a private room,Work on her day off for pay,West African Nationality","1103 Dec tower 1, Dubai Marina",55.12933250,25.06847020,
 Siddarth Ramaswamy Ramaswamy,"Has a dog,Has a private room,Work on her day off for pay,West African Nationality","1103 Dec tower 1, Dubai Marina",55.12933250,25.06847020,
-Leyla Felfel,"West African Nationality,Has a baby younger than 2 years old,Has a private room,Live Out,International","Meydan Heights Retail Center apt 119, Nad Al Sheba 1",55.31522390,25.14188590,
+Leyla Felfel,"Has a baby younger than 2 years old,Has a private room,Live Out,International,Filipina","Meydan Heights Retail Center apt 119, Nad Al Sheba 1",55.31522390,25.14188590,
 Jay Daniel Van Berlo,"Has a baby younger than 2 years old,Lives in Abu Dhabi,Live Out,Has a dog","Al Zeina, Building E1, level 10, Apartment 1015",54.61292260,24.45638210,
 Jowan,"Filipina,Has a private room,Live Out","Dubai harbour Marina vista tower 2,2002,20",55.14111280,25.09873510,
 Fahri Sert,"Filipina,Work on her day off for pay,Live Out","Marasi drive 65, Business Bay, The Bay, 717",55.29094930,25.19092290,
@@ -939,7 +939,7 @@ Ethnik Krasniqi,"Filipina,West African Nationality,Lives in Abu Dhabi,Live Out",
 Temitope Luqman Bakare,,"509 Dubai Wharf, Tower 3, Jaddaf Waterfront, Dubai ",55.33972430,25.22628820,
 Maria Del Carmen Garcia Nieto,"Has a private room,Live Out,Filipina","Harbour Views Tower 1, apartment 2906 (floor 29), Dubai creek harbour",55.34485340,25.20510950,
 Unknown,"Live Out,West African Nationality","504, Creek Gate Tower 1, Dubai Creek Harbour",55.34716410,25.20608410,
-Nadrin Salaheldin Ali Bannaga,"Has 3 kids or more,Has a baby younger than 2 years old,Has a private room,Work on her day off for pay,Live Out,Filipina","Alhabtoor city, noora tower, 1602",55.25431600,25.18417850,
+Nadrin Salaheldin Ali Bannaga,"Filipina,Live Out","Alhabtoor city, noora tower, 1602",55.25431600,25.18417850,
 Daniel Christopher Bedward,"West African Nationality,Has 3 kids or more,Has a baby younger than 2 years old,Has a cat","101, Spring, Arabian Ranches 3, Dubai",55.32400510,25.06202520,
 Shahab Yarahmadi,"Ethiopian Maid,Filipina,West African Nationality,Has 3 kids or more,Has a baby younger than 2 years old,Give day off other than Sunday Negation",Al Barari Neighbourhood  Building B2 Number 41,55.31296670,25.09942150,
 Gael Favraud,"West African Nationality,Lives in Abu Dhabi,Has a private room,Live Out","Bld C2773, Al Raha Street, Apt 905, Al raha, Abu Dhabi",54.59549980,24.44729640,
@@ -1213,7 +1213,7 @@ Arslan Tahir Mian,"Live Out,< 30 Years old,< 40 Years old,Filipina",Villa 26 Pac
 number 0568757592 
 price 200AED per month
 areas he covers from Satwa to Damac Hills 2"
-Matthew Ford,"Live Out,Has a cat,Has a baby younger than 2 years old,Filipina","SPRINGS 9, Street 3, villa 26",55.18519140,25.05957100,
+Matthew Ford,Filipina,"SPRINGS 9, Street 3, villa 26",55.18519140,25.05957100,
 Natalie Quinn,"Has a cat,International,Live Out,Work on her day off for pay,West African Nationality","Springs 3, street 3, Villa 22",55.17527674,25.05720815,
 Sam George Alcock,"Filipina,Has a baby younger than 2 years old,Has a cat,International,Live Out","Shoreline 12, flat 305, palm jumeirah",55.14158250,25.11247830,
 Lyn Jude Victorino Rodrigues,,"Al furjan, Freej residence by Evertree, 4th floor, apt 402",55.14586110,25.02516680,
@@ -1351,7 +1351,7 @@ Mahlet Gizaw,"Filipina,West African Nationality,Has a baby younger than 2 years 
 Sascha Daniel Atas,"Filipina,Has a dog",Nad Al Sheba Villas - Villa 1240 - 42. Street,55.37778410,25.15585020,
 Mohammad Imran Arif,"Filipina,Has a baby younger than 2 years old,Give day off other than Sunday Negation",Abu Dhabi Villa 464 Noya 1 -yas island,54.62464370,24.49656880,
 Hussain Ali Ahmad Malkawi,"Filipina,West African Nationality,Give day off other than Sunday Negation,Has a private room,Elderly parent at home,Live Out",7HQQ3557+F8,55.16327487,25.05867286,
-Gaurav Prakash Singh Sudarshan Singh,"Live Out,Filipina","villa 705 arabella 1 mudon Location pin: 25.018885, 55.269788",55.37242940,25.27698160,
+Gaurav Prakash Singh Sudarshan Singh,West African Nationality,"villa 705 arabella 1 mudon Location pin: 25.018885, 55.269788",55.37242940,25.27698160,
 Syed Rab,"Live Out,Has a private room,Has a baby younger than 2 years old,West African Nationality",7HQQ894M+6R,55.38459930,25.30558070,
 Hind Kaddoura Abou Laban,"West African Nationality,Has a baby younger than 2 years old,Has a private room","Dubai hills, Collective 2, Tower B, 606, 25?06'53.2""N 55?14'52.6""E",55.27078280,25.20484930,
 Jelena Rajlic,"Filipina,West African Nationality,Has a baby younger than 2 years old,Give day off other than Sunday Negation,Has a private room,Live Out","Lana tower, apartment 1103, JVC",55.21622780,25.05988450,
@@ -1370,7 +1370,6 @@ Tayeb Hasan,"Has a baby younger than 2 years old,Filipina",7HQQ46R6+CR,55.212112
 Marius Bernhard Meuser,"Has a baby younger than 2 years old,Has a private room,Live Out,Filipina",7HPQV545+5W,55.15986940,24.85544350,
 Floriana Valentina Pustorino,Filipina,"Emirates tower 6, apt. 1807 Dubai Silicon Oasis",55.37224170,25.11365310,
 OT VAN PAPENRECHT,"Filipina,Has 3 kids or more,Has a baby younger than 2 years old,Live Out","10 Al Meffras St, Umm sequim 1, Dubai",55.21647250,25.16930020,
-Karim Fadlallah,"Filipina,Live Out,Give day off other than Sunday Negation,Has a private room,Has a cat,Has a baby younger than 2 years old","TARAF 1 , JVC APT 211",55.21209280,25.05924240,
 Mouna Ae Boudoullah,"West African Nationality,Has 3 kids or more,Give day off other than Sunday Negation,Has a private room,Live Out","saleh bin Lahej building 361 flat 1203. Al Barshah 1 back side of city max hotels 
 
 Dubai
