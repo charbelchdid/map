@@ -45,7 +45,7 @@ GLADYS NABAKKA,"Has a dog,Has a cat,Has a baby younger than 2 years old,Lives in
 25?16'20.8""N 55?19'06.2""E
 https://maps.app.goo.gl/8VCbHFCMgy1Y4UdM8",25.29509450,55.34173020,Dani Reslan Sabek,Warsan 4 - Chez Moi building- Flat 410,"Has a private room,Has a private room"
 Jennifer Quezon Romasanta,"Has a baby younger than 2 years old,Has a private room,Give day off other than Sunday Negation,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,"23 37th St deira 
- 23 37th St 786F QW Dubai ",25.26191790,55.32466710,Tolga Macar,"Creek harbour tower 1, Apt 507","Has 3 kids or more,Live Out,Filipina"
+ 23 37th St 786F QW Dubai ",25.26191790,55.32466710,Tolga Macar,"Creek harbour tower 1, Apt 507","Has 3 kids or more,Live Out,< 30 Years old,Filipina"
 Myerrs Salinguhay Gonato,Has a private room,Filipina,"23 ??????????? - Al Danah - Zone 1 - Abu Dhabi 
 F9P6+FV Abu Dhabi",24.48590720,54.36209730,Nadine Mohamad Kamel Kabbani,"Reem island, the wave tower, 1001",Has a private room
 Lilian Nekesa Barasa,Has a baby younger than 2 years old,African,"24.499391, 54.372577",24.49934840,54.37261020,Pauline Molohan,"6307 Marasy, Al Bateen Location pin: 24.450667, 54.331750","West African Nationality,Has a dog,Live Out,Has a private room"
@@ -373,7 +373,7 @@ Leah Abwenje Anyila,"Has a baby younger than 2 years old,Has a cat,Lives in Abu 
 Barsha Heights - Dubai
 35XH+26 Dubai",25.09759660,55.17803460,Samuel Jay Levy,Reem Drive Villa 33 Al Reem 1 Arabian Ranches 1,"West African Nationality,Has a dog,Live Out,Has a private room"
 ANALYN RUIZO TORILLAS,"Has a baby younger than 2 years old,Has 3 kids or more,Lives in Abu Dhabi",Filipina,"Al Fai Restaurant
- 67HC+XRC - Al Bada'a - Dubai ",25.22993320,55.27202840,Carlos Barea Sandoval,"Al Jaz 3B, aprt 206, The Greens, Dubai","Filipina,Special needs kid,Live Out"
+ 67HC+XRC - Al Bada'a - Dubai ",25.22993320,55.27202840,Carlos Barea Sandoval,"Al Jaz 3B, aprt 206, The Greens, Dubai","Filipina,West African Nationality,Special needs kid,Live Out"
 AILYN DAYAO RAMOS,Has 3 kids or more,Filipina,Al falah street Abudhabi,24.47549150,54.36521280,Lennart Nils Luten,"Saadiyat Beach Residences Apartment 511, building 05","Filipina,International,Live Out"
 Maria Elena Valida Cruz,"Has 3 kids or more,Has a baby younger than 2 years old,Lives in Abu Dhabi",Filipina,Al Fardan Building Satwa - 67JG+2C7 - D90 - Dubai,25.23004190,55.27605700,Songyishu Yang,Central Park Tower Residences 2147,"Live Out,Filipina,West African Nationality,Has a private room"
 Bridget Nantale,,African,"Al Fardan Exchange, Room 502. Near ENOC Deira-Dubai
@@ -468,6 +468,8 @@ MARICEL BALON TORRES,"Has a baby younger than 2 years old,Has a dog,Lives in Abu
  Al Satwa Road - Al Satwa - Dubai 67JG+WV Dubai",25.23227760,55.27722350,Zakariae Naim,"La cote B2, apartment 406, port de la mer, Jumeirah 1 ","Filipina,Live Out"
 MARIVIC GAWAN MANGGAY,"Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,"Al Satwa Al Kabeer Masjid
  Al Satwa Road - Al Satwa - Dubai 67JG+WV Dubai",25.23227760,55.27722350,Merna Amr Saadelden Morsy Mohamed,Mudon views apartment 330,Has a private room
+ESTRELLA BANCOLITA AGBUYA,"Lives in Abu Dhabi,Has 3 kids or more,Has a cat",Filipina,"Al Satwa Al Kabeer Masjid
+ Al Satwa Road - Al Satwa - Dubai 67JG+WV Dubai",25.23227760,55.27722350,Hajar El Arjouni,Ras al khor - Creek beach - Sunset 1 - flat 505,"Live Out,Filipina"
 ESTRELLA BANCOLITA AGBUYA,"Lives in Abu Dhabi,Has 3 kids or more,Has a cat",Filipina,"Al Satwa Al Kabeer Masjid
  Al Satwa Road - Al Satwa - Dubai 67JG+WV Dubai",25.23227760,55.27722350,Hajar El Arjouni,Ras al khor - Creek beach - Sunset 1 - flat 505,"Live Out,Filipina"
 RICCA LAZADA MORANA,"Has 3 kids or more,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,"Al Satwa Al Kabeer Masjid
@@ -580,6 +582,7 @@ ANALOU LASTIMADO CAMBAYA,Lives in Abu Dhabi,Filipina,"Day To Day - Union
 25?15'54.8""N 55?18'54.1""E",25.26512640,55.31511910,CHIARAA - BARBARO  BARBARO,one & only zabeel one & only zabeel,"Filipina,Has a private room"
 GEMMA FELIMA FRANCISCO,,Filipina,"Day To Day - Union
  NASA Building - Omar Bin Al Khattab St - opposite Union Metro Station - Deira - Dubai 7888+32 Dubai.",25.26512640,55.31511910,Wafiq Ismaile Choucair,"Villa 179, Sun, Arabian Ranches 3 ","Live Out,Filipina"
+MA FE FABRO ONOFRE,"Has a baby younger than 2 years old,Lives in Abu Dhabi,Has a dog",Filipina,"Day To Day - Union, NASA Building - Omar Bin Al Khattab St - opposite Union Metro Station - Deira - Dubai",25.26426460,55.31599070,Hosam Agwa,"Villa 683, Al Furjan Villas, Zone V, Jabel Ali","Filipina,Has a cat,Give day off other than Sunday Negation,International,Live Out"
 JOAN DELOS SANTOS TORRES,"Give day off other than Sunday Negation,Has 3 kids or more,Lives in Abu Dhabi",Filipina,Deewan car accessories building satwa road,25.23661220,55.27951530,Karen Vanetsyan,"MBR al maktoum city, Villa 826","Live Out,Filipina,Has a private room"
 ROSE MAKENA RUKARIA,"Has a baby younger than 2 years old,Has 3 kids or more,Has a dog",African,"Defrc Movz And Pakrz
  Al Zahiyah - E13 - Abu Dhabi G92F+4V Abu Dhabi ",24.50033980,54.37473170,Sabrina Desbordes,"Saadiyat Island New York University Abu Dhabi, Samar F1 Residences Apart506, 129188 ","West African Nationality,Lives in Abu Dhabi,Give day off other than Sunday Negation,Live Out"
