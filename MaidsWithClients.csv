@@ -26,6 +26,7 @@ MONINA GIDO DUMAS,Lives in Abu Dhabi,Filipina,"6 23rd St - Al Hudaiba - Dubai.
 ZANDIE JEAN FERARRIN TABAN UD,"Give day off other than Sunday Negation,Has a dog,Lives in Abu Dhabi",Filipina,"6-10 33rd St, Al Bada'a - Dubai - United Arab Emirates
 
 25?13'37.1""N 55?16'11.7""E",25.22714150,55.26986590,Viktoriia Shabalina,"Block A, 405, Ascot Residences, Town Square",Ethiopian Maid
+REHEMA BABIRYE,Give day off other than Sunday Negation,African,"6Q8J+X6X Al Ain, Abu Dhabi - United Arab Emirates",24.21748750,55.78060940,Sabeeta Thirusaba Nathan,"Apartment 202, Eleganz 5 by Danube, JVC",Has a private room
 RWEN DAQUIZ CUESTAS,"Has a baby younger than 2 years old,Has 3 kids or more,Has a cat,Lives in Abu Dhabi",Filipina,"7a 11A St
  7a 11A St - Jumeirah - Jumeirah 2 - Dubai ",25.20620690,55.24587900,Jamie Alexander Alan Hall,"Villa 5 Golf Homes,la coleccion Mirador, street 2,Arabian ranches","Filipina,Has a dog,Live Out"
 Lovence Nabakooza,Lives in Abu Dhabi,African,9 21b St - Deira - Al Murar - Dubai - United Arab Emirates,25.27711160,55.30886280,Saeid Ahmadi Niri,"Villa 26, street 6, meadows 3","West African Nationality,Live Out,Has a baby younger than 2 years old"
@@ -144,7 +145,6 @@ Setti Habiba Tibug Asuncion ,Lives in Abu Dhabi,Filipina,"45 Al Maktoum Rd - Dei
 REGINA MEGALLON PASCUAL,"Has a cat,Lives in Abu Dhabi",Filipina,47P3+VH Dubai - United Arab Emirates,25.13718750,55.25393750,Soukaina Jamili,Dubai Hills Park ridge tower c Apt 417,"Has a baby younger than 2 years old,Live Out,Has 3 kids or more,Filipina,Has a private room"
 ANNE CLAIRE RAMIL SUPLIDO,"Has a baby younger than 2 years old,Lives in Abu Dhabi",Filipina,48 26B St - Deira - Dubai 787F+JM Dubai,25.26417610,55.32416750,Andrew Richard Hall,"Villa 27, Alvorada 1, Arabian Ranches 1","Live Out,Filipina,Has a dog,Has a private room"
 RITCHEL QUIMBO SAAVEDRA,"Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,49CW+76Q Dubai - United Arab Emirates,25.12071250,55.39560940,Turab Gardezi,Apt 702 Al Zarooni 4 Building Dubai Silicon Oasis,"Filipina,Has a baby younger than 2 years old,International,< 30 Years old,Has a private room"
-LADY LANE LASALA VILLADIEGO,"Has 3 kids or more,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,53 Al Rigga Rd - Deira - Dubai 787F+GG Dubai,25.26374050,55.32391510,Sailesh Jani,"1310 Marina Residences 2, Palm Jumeirah, Dubai","Has a baby younger than 2 years old,Live Out,< 30 Years old,Filipina"
 JANET FIGURACION CABALLERO,"Has a baby younger than 2 years old,Give day off other than Sunday Negation,Lives in Abu Dhabi",Filipina,53 Al Rigga Rd - Deira - Dubai 787F+GG Dubai,25.26374050,55.32391510,Vanesa Fernandez Membrillera,Al Waleed Paradise 2206 JLT Cluster R,"Filipina,Has a cat,Live Out"
 AILLEN GARCIA YAP,"Has a baby younger than 2 years old,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,"54 al satwa rd- Al badaa
 code : 67JG+74 Dubai",25.23058950,55.27533330,Sadaf ( the actual client ),1005 Gulf Oasis Apartment Hotel Al Barsha,"Filipina,Live Out"
@@ -232,7 +232,6 @@ MADINA NAKASUJJA,"Has a baby younger than 2 years old,Has a cat,Lives in Abu Dha
 Julian Namuwonge,"Has a cat,Has a dog,Has a private room,Lives in Abu Dhabi,Has a baby younger than 2 years old",African,78C6+MQQ Dubai - United Arab Emirates,25.27171250,55.31198440,Connor Paul Mccloskey,"Jumierah Luxury Living, Jumierah Golf Estates, VILLA G063","Live Out,West African Nationality"
 ASHLEY MUKAMI GATHU,"Has a baby younger than 2 years old,Lives in Abu Dhabi",African," 78C7+RC Dubai
 ",25.27206250,55.31356250,Mahmoud Salaheldin Mohammed Mohammed,"Dubai Marina, Jam Marina Residence, 110","Ethiopian Maid,Live Out,West African Nationality"
-Christiana Aku Amartey,"Has a baby younger than 2 years old,Has a cat,Has a dog,Lives in Abu Dhabi",African,78C8+7V3 Dubai - United Arab Emirates,25.27063750,55.31717190,Amna,"1301 Bayz of Danube, Marasi Drive, Business Bay","Muslim Compliant,Live Out,West African Nationality"
 Rowena Barillo Marfil,"Give day off other than Sunday Negation,Lives in Abu Dhabi",Filipina,78CC+39 Dubai - United Arab Emirates,25.27018750,55.32093750,Geng Tao,Armani Hotel Residence Dubai  Downtown,"Has a baby younger than 2 years old,Give day off other than Sunday Negation,Live Out,International,Filipina,Has a private room"
 JUVY PIEDAD RABUTAN,"Give day off other than Sunday Negation,Lives in Abu Dhabi",Filipina,78CH+C4 Dubai - United Arab Emirates,25.27106250,55.32781250,Menna,"Warsan 4 , 5 stars residence building , 2nd floor , 213","Has a baby younger than 2 years old,Live Out,< 40 Years old,Filipina,Has a private room"
 Gorret Nabadda,"Has a baby younger than 2 years old,Has a cat,Has a dog,Lives in Abu Dhabi",African,78F6+CC7 Dubai - United Arab Emirates,25.27353750,55.31104690,Jonatan Joffe,Park point block B apartment 312,"West African Nationality,Live Out"
@@ -393,6 +392,9 @@ Faith Njoki Wanjiku,"Has a dog,Lives in Abu Dhabi",African,"Al barsha , near car
 4663+874 Dubai - United Arab Emirates",25.11076250,55.20320310,Foivos Athos Sarelis,"District 1, residence 23, apartment G03",Has a private room
 Maricel Nonok Ubando,"Has a baby younger than 2 years old,Give day off other than Sunday Negation,Has a cat,Lives in Abu Dhabi",Filipina,"Al barsha near mall of emirates, al ansari building",25.08382700,55.22039700,Mahzad Atish Karimi Gajjar,"910 Marina Residence 6, Palm Jumeirah, Dubai. UAE","Live Out,Filipina,Has a private room"
 KRIS ANNE CARPIO ANDRES,Has a dog,Filipina,"Al barsha, hakka building 3rd floor, room 305",25.11251700,55.20532220,Asher,"Villa 201, street 8 , Camelia 1 , Arabian Ranches 2","Live Out,< 40 Years old,West African Nationality"
+KHADIJA KWEKWE MRISA,"Has a baby younger than 2 years old,Has a dog,Lives in Abu Dhabi",African,"Al Dawa Al Hor Anz Pharmacy Hammad khalfan Building - opposite Ayesha Mosque - Hor Al Anz - Dubai 78GJ+85 Dubai
+
+",25.27582750,55.33043800,Amna,"1301 Bayz of Danube, Marasi Drive, Business Bay","Live Out,Muslim Compliant,West African Nationality"
 AGNES NAKAWUKI,Lives in Abu Dhabi,African,"Al Deira, Union Metro Station",25.26633610,55.31450540,Isaac Kiiru Mwangi,"Al Jaddaf, Ayedh Tower, 13th Floor, Apartment No. 1310","West African Nationality,Has a baby younger than 2 years old,Live Out"
 Leah Abwenje Anyila,"Has a baby younger than 2 years old,Has a cat,Lives in Abu Dhabi",African,"Al Fahad Tower 1
 Barsha Heights - Dubai
@@ -618,7 +620,7 @@ MA FE FABRO ONOFRE,"Has a baby younger than 2 years old,Lives in Abu Dhabi,Has a
 JOAN DELOS SANTOS TORRES,"Give day off other than Sunday Negation,Has 3 kids or more,Lives in Abu Dhabi",Filipina,Deewan car accessories building satwa road,25.23661220,55.27951530,Karen Vanetsyan,"MBR al maktoum city, Villa 826","Live Out,Filipina,Has a private room"
 ROSE MAKENA RUKARIA,"Has a baby younger than 2 years old,Has 3 kids or more,Has a dog",African,"Defrc Movz And Pakrz
  Al Zahiyah - E13 - Abu Dhabi G92F+4V Abu Dhabi ",24.50033980,54.37473170,Sabrina Desbordes,"Saadiyat Island New York University Abu Dhabi, Samar F1 Residences Apart506, 129188 ","West African Nationality,Lives in Abu Dhabi,Give day off other than Sunday Negation,Live Out"
-Mary Jane Condez Seva,"Has a private room,Has 3 kids or more,Has a cat,Lives in Abu Dhabi",Filipina,Deira,25.27884680,55.33093950,Andrianos Karakoulidis,"The greens and the views,  mosela, 15 floor, 1503","Filipina,Has a baby younger than 2 years old,Give day off other than Sunday Negation,Live Out"
+Mary Jane Condez Seva,"Has a private room,Has 3 kids or more,Has a cat,Lives in Abu Dhabi",Filipina,Deira,25.27884680,55.33093950,Andrianos Karakoulidis,"mulberry 1 b1, dubai hills","Filipina,Has a baby younger than 2 years old,Give day off other than Sunday Negation,Live Out"
 Odessa Magayano Riolto,"Has 3 kids or more,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,Deira ,25.27884680,55.33093950,Yanko Anastasov,"Jumeirah Garden City, Al Habbai building 4, apartment 707","Filipina,Has a baby younger than 2 years old,Live Out"
 Louning Tabogon Torena,"Has a baby younger than 2 years old,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,"Deira center , al buhaira insurance building",25.27884680,55.33093950,Farhan Ali Rounaq Ali Khan,"City walk building 13A, apartment 104","Has a baby younger than 2 years old,Live Out,Work on her day off for pay,Give day off other than Sunday Negation,Filipina"
 PERUTH NANTUDDE,"Give day off other than Sunday Negation,Lives in Abu Dhabi",African,"Deira union,near exit 2",25.27884680,55.33093950,Mitali Gupta,479 Noor Townhouses ,"West African Nationality,Has a baby younger than 2 years old,Has a dog,International,Live Out"
@@ -764,6 +766,7 @@ FLORENCE AKINYI OGUTU,"Give day off other than Sunday Negation,Has a cat,Has a d
 SHEILER KHAMONYA MAKOTSI ,"Give day off other than Sunday Negation,Has a cat,Has a dog,Lives in Abu Dhabi",African,Karachi Darbar Restaurant - 284 D90 - Al Bada'a - Dubai 67GF+M6 Dubai,25.22666670,55.27305560,Vincenzo Bucci,"Beach isle tower 2 apt 301, emaar beachfront Dubai harbour ","Filipina,Has a baby younger than 2 years old,Live Out"
 ARBAIYA CASIM GUIANDAL,Has a baby younger than 2 years old,Filipina,"Khalidiya Police Station
 F965+CQF - Near Shahin Super Market - Hazza ' Bin Zayed The First St - Abu Dhabi ",24.46105200,54.35942890,WASEF SALEM MATTAR,al zaina b2 402 ,"Has a cat,< 30 Years old,Live Out,Lives in Abu Dhabi,Filipina,Has a private room"
+ARCADIA SENA MORADA,,Filipina,Khalifa Bin Zayed The First St - Al Danah - Zone 1 - Abu Dhabi F9Q4+9M Abu Dhabi,24.49300000,54.36254480,Luca Troiani,Etihad towers - tower number 2 - apt 6902,"Filipina,Has a baby younger than 2 years old,Has a cat,Has a dog,Lives in Abu Dhabi,Give day off other than Sunday Negation,Has a private room"
 DIANA NDUKU MUTHANGYA,"Has a cat,Has a dog,Lives in Abu Dhabi",African,"KHAN GI RESTAURANT
 33A St - Al Satwa - Dubai
 67FC+QR Dubai",25.22441220,55.27210980,Sara Hisham Osman,Jenin Bldg-apt 405-JVT,"Has a baby younger than 2 years old,Give day off other than Sunday Negation,Live Out,< 30 Years old,Lebanese,West African Nationality,Has a private room"
