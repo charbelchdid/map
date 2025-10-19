@@ -120,7 +120,7 @@ NORMINA ULAMA GUIAMA,"Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,"25?16'33
 LYDIAH WANJIRU GACHERU,"Has a dog,Lives in Abu Dhabi",African,"25?18'01.5""N 55?22'33.3""E
  892G+597 Sharjah ",25.35616980,55.42721100,MARIE LAURE FABIENNE GASSIER,Abu Dhabi,"West African Nationality,Has a cat,Lives in Abu Dhabi,Live Out"
 IRENE KANUEL,"Has a cat,Lives in Abu Dhabi",African,"25?18'33.0""N 55?27'00.7""E",25.27884680,55.33093950,Robert Patrick Pitot,"appt 114, Nadd Al Hammar building, Nad Al Hammar","West African Nationality,Has a baby younger than 2 years old,Give day off other than Sunday Negation,Live Out,Has a private room"
-JANET PATROCENIA BASA,"Has a dog,Lives in Abu Dhabi",Filipina,"25?24'34. 55?26'20 2""N 8 Street - 1 - Al Owan - Al Nakhil 1 - Ajman - United Arab Emirates",25.41024550,55.44023890,Yanko Anastasov,"Jumeirah Garden City, Al Habbai building 4, apartment 707","Has a baby younger than 2 years old,Live Out,Filipina"
+JANET PATROCENIA BASA,"Has a dog,Lives in Abu Dhabi",Filipina,"25?24'34. 55?26'20 2""N 8 Street - 1 - Al Owan - Al Nakhil 1 - Ajman - United Arab Emirates",25.41024550,55.44023890,Yanko Anastasov,"Jumeirah Garden City, Al Habbai building 4, apartment 707","Filipina,Has a baby younger than 2 years old,Live Out"
 Mary Jane Manos Salinas,"Give day off other than Sunday Negation,Has 3 kids or more,Lives in Abu Dhabi",Filipina,"26B Street, Building opposite Grand Marina Hotel, Room number 217, Al Rigga; Dubai",25.26640630,55.31984320,David Robert Madden Macintyre,"Al Satwa, Eden house 602  Dubai  41 street","Filipina,Has a private room"
 Jessica Dumlao Quinio,"Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,"26V8+M2 Dubai - United Arab Emirates
 Zenith A1 Sport City Dubai",25.04410110,55.21504620,Nico Francisco Serventi,"Apartment 411, Golf vista A, Damac Hills","Live Out,Filipina"
@@ -375,6 +375,7 @@ ANNALIE MANJAC RAGAZA,"Has 3 kids or more,Lives in Abu Dhabi",Filipina,"Ahmad Vi
  Arabian Ranches - Savannah - Dubai 374G X7 Dubai",25.05748400,55.27572300,Nabil Zeggaf,03-15 Mag City,"Filipina,Has a baby younger than 2 years old,Live Out"
 GRACE WAITHERA NDUNGU,,African,"Ahmed Building
 29 16b St - Al Satwa - Dubai 679C+8W Dubai",25.21828300,55.27237200,Lorenzo Folchino,"Villanova, La Rosa 1, Villa 001, Dubai","Filipina,West African Nationality,Has a baby younger than 2 years old,Give day off other than Sunday Negation,Live Out"
+Angelica Erpelo Padilla,"Has a baby younger than 2 years old,Has a private room,Give day off other than Sunday Negation,Lives in Abu Dhabi",Filipina,"Al Ansari Business Center, Al Barsha 1,Beside Mall of the - Dubai - Sheikh Zayed Rd - beside Mall of The Emirates - Al Barsha - Dubai 4693 3J Dubai ",25.11761460,55.20415150,Shakhrizoda Bakhridinovna Shakirova,2502 Banyan Tree Residences Bluewaters ,"Filipina,Live Out"
 Grace Silverio Besana,"Has a cat,Has a dog",Filipina,Al attar tower financial centre ,25.11251700,55.20532220,Sheeraz Zafar Hasan,Burj royale suite 3511 downtown dubai ,"Live Out,Filipina,Has a private room"
 STEPHANIE GALOYO LAGOS,"Has 3 kids or more,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,"Al Attar tower, DIFC, floor number 2303",25.21290560,55.27735470,Hisham Emile Nuri Oweiss,Emirates Crown Tower Dubai Marina Apt 104,"Has a cat,Live Out,Has a dog,Filipina,Has a private room"
 Elaissa Matuguinas,"Give day off other than Sunday Negation,Has a baby younger than 2 years old,Has a dog,Lives in Abu Dhabi",Filipina,"Al Bada'a Park 1
@@ -1088,7 +1089,7 @@ https://maps.app.goo.gl/A32KBmEMpait7N2EA",25.23521030,55.27451700,Craig Curtis,
 AILENE ALAMO BERMEJO,"Has 3 kids or more,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,"Villa 52 -1A room 3, next to Iranian Hospital 
 Al Wasl Rd - Al Bada'a - Jumeirah 1 - Dubai",25.22996320,55.26921160,Halima Mahmood,"Arabian Ranches 1, Al Reem 1, 
 Villa 37, street 3 
-Dubai","Filipina,Has a baby younger than 2 years old,Has a private room"
+Dubai","Has a baby younger than 2 years old,Filipina,Has a private room"
 Medina Capitin Andes,Has a baby younger than 2 years old,Filipina,"Villa 65 Al Satwa Dubai, back big Westzone
 25?13'53.0""N 55?16'21.4""E",25.22145190,55.27493420,S S,"City walk, building 15, app 502","Filipina,Live Out,Has a private room"
 CHRISTALYN SANTOS ANTONIO,"Give day off other than Sunday Negation,Has a baby younger than 2 years old,Lives in Abu Dhabi",Filipina,"Villa 69 backside of viva super market, Satwa",25.21937000,55.27288700,Liam,"Damac Hills, Golf Horizon B, apartment B401","Filipina,Has a private room"
