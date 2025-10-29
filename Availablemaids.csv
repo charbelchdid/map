@@ -2,6 +2,7 @@ Maid Name,Matching types,Nationality,Address,Latitude,Longitude
 REHEMA BABIRYE,Give day off other than Sunday Negation,African,"6Q8J+X6X Al Ain, Abu Dhabi - United Arab Emirates (she's okay with relocating when she has a client).",24.21748750,55.78060940
 PENLOPE AGASHA,"Has a baby younger than 2 years old,Give day off other than Sunday Negation,Has a cat,Has a dog",African,10 Zakhir St - Hadbat Al Za`Faranah - E30 - Abu Dhabi ,24.44309890,54.39964340
 LIALYN ORENA BERNAL,Has 3 kids or more,Filipina,"24?29'22.3""N 54?22'09.8""E",24.45388400,54.37734380
+JENNIFER UY DABATOS,"Has a cat,Lives in Abu Dhabi",Filipina,67JC+9F2 Plaza Building Satwa - Al Bada' - Dubai ,25.23088750,55.27114060
 RENELYN SALADO GONZALES,"Has a baby younger than 2 years old,Has 3 kids or more,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,67PJ+WCX Dubai - United Arab Emirates,25.23736250,55.28110940
 Julian Namuwonge,"Has a cat,Has a dog,Has a private room,Lives in Abu Dhabi,Has a baby younger than 2 years old",African,78C6+MQQ Dubai - United Arab Emirates,25.27171250,55.31198440
 Christiana Aku Amartey,"Has a baby younger than 2 years old,Has a cat,Has a dog,Lives in Abu Dhabi",African,78C8+7V3 Dubai - United Arab Emirates,25.27063750,55.31717190
@@ -28,6 +29,7 @@ SHARON JEPNGETICH ROTICH,"Give day off other than Sunday Negation,Has a cat,Has 
  Hay Al Nahda - Al Nahda 1 - Sharjah 893F+5X Sharjah",25.30297340,55.37490610
 LUISA NONATO VILLANUEVA,"Give day off other than Sunday Negation,Has a cat,Has a dog",Filipina,"Al Rawdah - W54 - Abu Dhabi
 CF7F+4X Abu Dhabi",24.33684900,54.53565600
+Prossy Nabaggala,Lives in Abu Dhabi,African,Al Satwa Road - Al Satwa - Dubai 67JG WV Dubai,25.22262190,55.27055820
 WINNIEFRED NAMULEME,Give day off other than Sunday Negation,African,"Al Wahda Mall
 1 Hazza ' Bin Zayed The First St - Al Nahyan - Zone 1 - Abu Dhabi F9CC+8V Abu Dhabi",24.47077750,54.37222800
 RONNAVELLE MAYUMAY ANCA,"Has a baby younger than 2 years old,Has 3 kids or more,Has a cat",Filipina,"Back side of Emirates Plaza Hotel, Al Zahiyah - E13 - Abu Dhabi",24.50121790,54.37479120
@@ -56,8 +58,6 @@ Block B building
 10th floor
 Room 1003",24.49356490,54.37092710
 Jennifer Santos,"Has a private room,Has a dog,Lives in Abu Dhabi",Filipina,Khail Gate Phase II Al - Al Quoz Industrial Area 2 - Dubai 47Q3 GC Dubai,25.14250020,55.25026430
-CRISTINE COLORADO GARCIA,"Has 3 kids or more,Has a cat,Lives in Abu Dhabi,Has a dog",Filipina,"Near Satwa, Clinic
- 67JG+C9 Dubai.",25.23111300,55.27590900
 JANETH CABINGAS RIVERA,"Has 3 kids or more,Lives in Abu Dhabi",Filipina,"Retail Shop No. 2, SBO Tower - Al Barsha Rd - Al Barsha 1 - Dubai 4684+53 Dubai",25.11539220,55.20515720
 Mylene Matchoca Camilo,Has a baby younger than 2 years old,Filipina,"Royal Rose Abu Dhabi, a Curio Collection by Hilton Affiliated Hotel, 1025 Zayed The First St - Al Danah - Al Markaziyah District - Abu Dhabi",24.49329510,54.37306730
 Celeste Espuerta Escoyo,"Has a baby younger than 2 years old,Lives in Abu Dhabi",Filipina,"Satwa near to big mosque:
