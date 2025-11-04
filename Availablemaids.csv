@@ -1,7 +1,7 @@
 Maid Name,Matching types,Nationality,Address,Latitude,Longitude
-SHADIAH NAKANDI,"Has a baby younger than 2 years old,Has 3 kids or more,Has a cat,Has a dog",African,1 Hazza ' Bin Zayed The First St - Al Nahyan - Zone 1 - Abu Dhabi F9CC+8V Abu Dhabi,24.47050100,54.37272890
 AILYN MAMBURAM REGENTE,"Has a baby younger than 2 years old,Has a dog,Lives in Abu Dhabi",Filipina,9 Al Sagi Street - Deira - Al Rigga - Dubai 7886+MP Dubai,25.18736370,55.22794630
 MATILDA OBENG APPIAH,Lives in Abu Dhabi,African,14 Street 11A - Ayal Nasir - Dubai 78F3+JG Dubai,25.27409240,55.30386620
+LIALYN ORENA BERNAL,Has 3 kids or more,Filipina,"24?29'22.3""N 54?22'09.8""E",24.45388400,54.37734380
 Sarah Njoki Wainaina,"Has a baby younger than 2 years old,Lives in Abu Dhabi,Has a cat,Has a dog",African,"25?07'00.1""N 55?12'17.5""E
 al barsha ",25.08382700,55.22039700
 Sharon Mutoni,"Has a baby younger than 2 years old,Give day off other than Sunday Negation,Has 3 kids or more,Lives in Abu Dhabi",African,"25?16'02.4""N 55?19'44.6""E",25.27181530,55.31606610
@@ -24,6 +24,7 @@ Muraqabat plaza hotel,2nd Street Dubai
 HAYDEE MAE ESTELLERA,Has a baby younger than 2 years old,Filipina,838 Zayed The First St - Al Danah - Zone 1 - Abu Dhabi F9P7+68 Abu Dhabi,24.48553610,54.36322450
 Elizabeth Zanabu Sabogu,"Has a baby younger than 2 years old,Has a cat,Has a dog,Lives in Abu Dhabi",African,995P+X3 Sharjah - United Arab Emirates,25.35993750,55.38518750
 GORRET MIREMBE,"Has a baby younger than 2 years old,Lives in Abu Dhabi",African,4663+5PV Dubai - United Arab Emirates,25.11048750,55.20429690
+Norive Acupan Lumbaga.,"Has a baby younger than 2 years old,Lives in Abu Dhabi,Has a dog,Has a cat",Filipina,- Address: Satwa - al bada - nesto building,25.22472720,55.26874190
 JANE AKOL,"Lives in Abu Dhabi,Has a dog",African,Accommodation ,25.26791250,55.32617190
 Elaissa Matuguinas,"Give day off other than Sunday Negation,Has a baby younger than 2 years old,Has a dog,Lives in Abu Dhabi",Filipina,"Al Bada'a Park 1
  43B St - Al Bada'a - Dubai",25.22488870,55.26995080
@@ -37,6 +38,8 @@ RONADEL TUAZON TINIO,"Has a baby younger than 2 years old,Has 3 kids or more,Has
 F9Q9+VPP - Electra Street - Al Danah - Zone 1 - Abu Dhabi ",24.48970240,54.36931480
 Millicah Ndanu Nzyoki,"Has a baby younger than 2 years old,Give day off other than Sunday Negation,Has a dog,Lives in Abu Dhabi",African,"Al muteena villa 47 2B Street
 https://maps.app.goo.gl/gDG7u1XNjg4fB3YQ7",25.27791160,55.32590230
+SHARON JEPNGETICH ROTICH,"Give day off other than Sunday Negation,Has a cat,Has a dog,Lives in Abu Dhabi",African,"Al Nahda Park
+ Hay Al Nahda - Al Nahda 1 - Sharjah 893F+5X Sharjah",25.30297340,55.37490610
 LUISA NONATO VILLANUEVA,"Give day off other than Sunday Negation,Has a cat,Has a dog",Filipina,"Al Rawdah - W54 - Abu Dhabi
 CF7F+4X Abu Dhabi",24.33684900,54.53565600
 MARICEL BALON TORRES,"Has a baby younger than 2 years old,Has a dog,Lives in Abu Dhabi",Filipina,"Al Satwa Al Kabeer Masjid
@@ -52,6 +55,7 @@ HOPE ASINA,"Has a baby younger than 2 years old,Has a cat,Has a dog",African,"Ce
 https://maps.app.goo.gl/Hawu5VXz1NPyDy5K7",25.27191540,55.31119550
 ROSE MAKENA RUKARIA,"Has a baby younger than 2 years old,Has 3 kids or more,Has a dog",African,"Defrc Movz And Pakrz
  Al Zahiyah - E13 - Abu Dhabi G92F+4V Abu Dhabi ",24.50033980,54.37473170
+FATINAH NANGOBI,"Has a cat,Has a dog,Lives in Abu Dhabi",African,"DIFC, Financial Centre.",25.20884000,55.27703230
 MA CRISTINA LACTAOTAO RAMIREZ,"Has a baby younger than 2 years old,Give day off other than Sunday Negation,Has 3 kids or more,Has a dog",Filipina,Electra street - Al Danah - Zone 1 - Abu Dhabi F9RC+V5 Abu Dhabi,24.49218750,54.37043750
 MARY ANN CAPITLI MANALILI,"Has 3 kids or more,Has a baby younger than 2 years old",Filipina,F9RH+3JX Abu Dhabi - United Arab Emirates,24.49023750,54.37910940
 MICHELLE ABALAJON LASALITA,"Has a baby younger than 2 years old,Lives in Abu Dhabi,Has a cat",Filipina,"First Choice Residence
@@ -60,6 +64,7 @@ Eleonor Espino Malacas,Has 3 kids or more,Filipina,G92F+8P3 Abu Dhabi - United A
 Madelene Montalvo Camarillo,"Has a baby younger than 2 years old,Has 3 kids or more,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,"GREEN LAND HYPERMARKET AL BADA SATWA DUBAI UAE
  Near Islamic Information Centre Al Bada'a - Al Satwa - Dubai 67MF+4C Dubai",25.23279360,55.27354010
 ASUNCION CATALINO BELTRAN,"Has a baby younger than 2 years old,Has a dog",Filipina,Hamdan Opposite Sun and San Sports 026411194 - Abu Dhabi F9WC+4H Abu Dhabi,24.49531250,54.37143750
+ANGILYN LAURA SARAMUSING,"Has a baby younger than 2 years old,Give day off other than Sunday Negation,Lives in Abu Dhabi",Filipina,https://maps.app.goo.gl/zECCFjmb5cJfvzaPA,25.23412646,55.27830677
 VANESSA SOLITA CORONEL,,Filipina,"https://share.google/ez7ys5Aw01RVwMgUr
 Al Danah - E10 - Abu Dhabi - United Arab Emirates
 
@@ -68,6 +73,12 @@ Block B building
 Room 1003",24.49356490,54.37092710
 REJINN FLORES SONET,"Has a baby younger than 2 years old,Has 3 kids or more,Has a cat,Lives in Abu Dhabi",Filipina,"Hyatt Place Dubai Al Rigga
  787H+53 Dubai",25.26290700,55.32768480
+CHRISTEL GAY TEMPLA ANTIC,"Has a baby younger than 2 years old,Has 3 kids or more,Has a cat,Lives in Abu Dhabi",Filipina,"K5 Building
+ 43 Al Muraqqabat St - Deira - Dubai 787H+X3 Dubai",25.26497720,55.32765710
+Jeralyn Lagad Lagumbay,"Give day off other than Sunday Negation,Lives in Abu Dhabi",Filipina,Karama  68Q2 MF Dubai,25.24892040,55.30605510
+DIANA NDUKU MUTHANGYA,"Has a cat,Has a dog,Lives in Abu Dhabi",African,"KHAN GI RESTAURANT
+33A St - Al Satwa - Dubai
+67FC+QR Dubai",25.22441220,55.27210980
 Mylene Matchoca Camilo,Has a baby younger than 2 years old,Filipina,"Royal Rose Abu Dhabi, a Curio Collection by Hilton Affiliated Hotel, 1025 Zayed The First St - Al Danah - Al Markaziyah District - Abu Dhabi",24.49329510,54.37306730
 CHANULLA NATY SEALMOY DAGUPLO,"Has a baby younger than 2 years old,Give day off other than Sunday Negation,Has 3 kids or more,Has a dog",Filipina,Sheikh Hamdan Bin Mohammad St(5th St) - Al Zahiyah - E13 - Abu Dhabi F9XG+QH Abu Dhabi,24.49934840,54.37701020
 ROOTCHES FERNANDEZ GUIRON,"Has a baby younger than 2 years old,Has 3 kids or more,Has a cat,Has a dog",Filipina,Sheikh Rashid Bin Saeed Al Maktoum Street (Old Airport Road - Abu Dhabi F9F9 F6 Abu Dhabi ,24.48554890,54.35720840
