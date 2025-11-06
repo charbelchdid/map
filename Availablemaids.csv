@@ -1,5 +1,4 @@
 Maid Name,Matching types,Nationality,Address,Latitude,Longitude
-EVE KYOTIBA,"Has 3 kids or more,Has a cat,Has a dog",African,1 Al Khail Rd - Hadaeq Sheikh Mohammed Bin Rashid - Dubai 464R+M2 Dubai,25.10700040,55.23998770
 AMIELYN GALICIA VILLOSTAS,"Has a baby younger than 2 years old,Lives in Abu Dhabi",Filipina,4 29A St - Deira - Dubai 789G+59 Dubai,25.26790920,55.32593470
 PENLOPE AGASHA,"Has a baby younger than 2 years old,Give day off other than Sunday Negation,Has a cat,Has a dog",African,10 Zakhir St - Hadbat Al Za`Faranah - E30 - Abu Dhabi ,24.44309890,54.39964340
 MATILDA OBENG APPIAH,Lives in Abu Dhabi,African,14 Street 11A - Ayal Nasir - Dubai 78F3+JG Dubai,25.27409240,55.30386620
@@ -25,6 +24,7 @@ Al murraqabat road,
 Muraqabat plaza hotel,2nd Street Dubai
 ",25.26868750,55.32606250
 HAYDEE MAE ESTELLERA,Has a baby younger than 2 years old,Filipina,838 Zayed The First St - Al Danah - Zone 1 - Abu Dhabi F9P7+68 Abu Dhabi,24.48553610,54.36322450
+ANN WANGUI MBURU,"Has 3 kids or more,Has a cat,Has a dog,Lives in Abu Dhabi,Has a baby younger than 2 years old",African,4663+3JJ Dubai - United Arab Emirates,25.11021250,55.20401560
 BRENDA IMMACULATE NAKANWAGI,"Has a baby younger than 2 years old,Lives in Abu Dhabi,Has a dog,Has a cat",African,"Abhu hail 7th Street, BLOCK B, ROOM 102",25.28586870,55.32817420
 ANABELLE RACHO ALCIBAR,"Has a baby younger than 2 years old,Give day off other than Sunday Negation,Has a cat,Lives in Abu Dhabi",Filipina,Address: 301 Galadari building - Satwa Clinic - Satwa,25.23111300,55.27590900
 IRENE GARDE SALE,"Has 3 kids or more,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,Address: Al Satwa - Tangles bulding - room 104 - Al maya grocery store,25.21937000,55.27288700
@@ -82,8 +82,10 @@ DIANA NDUKU MUTHANGYA,"Has a cat,Has a dog,Lives in Abu Dhabi",African,"KHAN GI 
 GENEVIVE PAYPA MEDRIANO,"Has 3 kids or more,Has a cat,Has a dog",Filipina,Marina royal compound F8F8+JQ Abu Dhabi,24.47406250,54.31693750
 Mylene Matchoca Camilo,Has a baby younger than 2 years old,Filipina,"Royal Rose Abu Dhabi, a Curio Collection by Hilton Affiliated Hotel, 1025 Zayed The First St - Al Danah - Al Markaziyah District - Abu Dhabi",24.49329510,54.37306730
 Gina Generoso Abante,Has a cat,Filipina,satwa al Maya           67HF P9 Dubai,25.22933960,55.27345500
+Corimina Amin Hji Ayub,"Has a private room,Has 3 kids or more,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,satwa near the big mosque,25.21937000,55.27288700
 CHANULLA NATY SEALMOY DAGUPLO,"Has a baby younger than 2 years old,Give day off other than Sunday Negation,Has 3 kids or more,Has a dog",Filipina,Sheikh Hamdan Bin Mohammad St(5th St) - Al Zahiyah - E13 - Abu Dhabi F9XG+QH Abu Dhabi,24.49934840,54.37701020
 ROOTCHES FERNANDEZ GUIRON,"Has a baby younger than 2 years old,Has 3 kids or more,Has a cat,Has a dog",Filipina,Sheikh Rashid Bin Saeed Al Maktoum Street (Old Airport Road - Abu Dhabi F9F9 F6 Abu Dhabi ,24.48554890,54.35720840
+AILYN DECENDARIO MACUNAN,"Give day off other than Sunday Negation,Has 3 kids or more,Has a cat,Has a dog",Filipina,Street 14 villa 43 satwa clinic,25.21937000,55.27288700
 KENNEDETH ROSARIO ARAMBULO,"Has a baby younger than 2 years old,Lives in Abu Dhabi",Filipina,"Villa 78, Street 12 B, Behind Almaya supermarket, Al Bada, Satwa- Dubai
 https://maps.app.goo.gl/qbywwd4WKCryWeWh6",25.22638800,55.27164010
 ARLENE ROA ACTUB,"Has a baby younger than 2 years old,Give day off other than Sunday Negation,Has 3 kids or more,Has a dog",Filipina,"Yateem Optician
