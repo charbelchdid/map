@@ -2,9 +2,6 @@ Maid Name,Matching types,Nationality,Address,Latitude,Longitude
 MARGARET WAMBUGHA MWAWAZA,"Has a cat,Has a dog,Lives in Abu Dhabi",African,"
 Abu Dhabi",24.45388400,54.37734380
 ELIZABETH NAKIYEMBA,"Has a cat,Has a dog,Lives in Abu Dhabi",African,5CF4+CJC Dubai - United Arab Emirates,25.17356250,55.40651560
-CAROLYNE NAKIWU,Lives in Abu Dhabi,African,5CM2+J7Q - Al Warqa - Al Warqa 1 - Dubai ? United Arab Emirates,25.18408750,55.40073440
-REHEMA BABIRYE,Give day off other than Sunday Negation,African,"6QCH+7CH Al Ain, Abu Dhabi - United Arab Emirates Al Ain
-",24.22068750,55.77860940
 FREDRICA OBENEWAA,"Has a dog,Lives in Abu Dhabi",African,7C8M+686 - Muhaisanah Second - Muhaisanah 2 - Dubai,25.26553750,55.43326560
 SHAMIRA NAMUGGA,Lives in Abu Dhabi,African,"7HQQ775P+3X Dubai - 
 Al Raffa ",25.25768750,55.28743750
@@ -13,8 +10,6 @@ MADUSHA SEWWANDI SILVA SANDARADURA,"Has a baby younger than 2 years old,Give day
 SHARIFAH NAGGAYI,"Has a baby younger than 2 years old,Has 3 kids or more",African,"8GGP+X73, 11th St, Mohamed Bin Zayed City, ME-11, Abu Dhabi",24.32640100,54.53655930
 HILDAH NATUKUNDA,"Has a baby younger than 2 years old,Has a dog,Lives in Abu Dhabi",African,12 18th St - Deira - Al Sabkha - Dubai - United Arab Emirates,25.26884800,55.30317920
 SHADIA NALWOGA,"Has a baby younger than 2 years old,Lives in Abu Dhabi",African,"23 29A St, Naif, Dubai, United Arab Emirates",25.26810240,55.32524780
-Prisca Tafadzwa Masvavike,"Give day off other than Sunday Negation,Has 3 kids or more",African,"24.414658, 54.575684
-CH7G+V77 Abu Dhabi - United Arab Emirates",24.41466250,54.57567190
 Lory Royo Baquirel,"Has a baby younger than 2 years old,Lives in Abu Dhabi",Filipina,"25.233318, 55.277297
 ",25.23330060,55.27736560
 Sarah Njoki Wainaina,"Has a baby younger than 2 years old,Lives in Abu Dhabi,Has a cat,Has a dog",African,"25?07'00.1""N 55?12'17.5""E
@@ -32,14 +27,17 @@ MARGARET NJOKI NJONJO,"Has a baby younger than 2 years old,Give day off other th
 ALICE MURINGI MUGACHA,"Has a baby younger than 2 years old,Lives in Abu Dhabi",African,67CC+X8H - 41st St - Al Satwa - Dubai ,25.22086670,55.27389520
 EVELYN OMAX RAMIREZ,"Has 3 kids or more,Lives in Abu Dhabi",Filipina,67G9+3Q Dubai,25.22518750,55.26943750
 Jenevie Encollado Parallag,"Has a baby younger than 2 years old,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,67GC+HX4 Dubai - United Arab Emirates,25.22638750,55.27245310
+SAIMA MANGAKOY BADSIGAN,"Has a baby younger than 2 years old,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,67HF+FP Dubai satwa,25.22868750,55.27431250
 SANDUNI GUNATHILA WASALA PATHIRANALAGE,"Has a baby younger than 2 years old,Lives in Abu Dhabi",African,67HF+P9 Dubai,25.22931250,55.27343750
 SANDUSHIKA SATHSARANI SILVA PINGAMAGE,"Has a baby younger than 2 years old,Lives in Abu Dhabi",African,67HF+P9 Dubai,25.22931250,55.27343750
+GRETCHEN GALVAN LUMBOY,Lives in Abu Dhabi,Filipina,67HF+P9 Dubai,25.22931250,55.27343750
 JANET MENDIOLA BALMES,"Has 3 kids or more,Lives in Abu Dhabi",Filipina,67HF+P9 Dubai satwa al maya ,25.22933960,55.27345500
 LATHIKA MITTAPALLY CHINNA REDDY SURAKANTI,"Has a baby younger than 2 years old,Has a cat,Lives in Abu Dhabi",African," 67HG+X8P - Emirates NBD Building, Al Badaa St - Al Satwa Rd - Al Satwa - Dubai ",25.23661220,55.27951530
 AYESHA MADUSHANI PASIKKU HANNADIGE,"Has a baby younger than 2 years old,Lives in Abu Dhabi",African,67JC+2PR - Al Hudaiba Rd - Al Bada' - Dubai,25.22999830,55.27261940
 JENNIFER UY DABATOS,"Has a cat,Lives in Abu Dhabi",Filipina,67JC+9F2 Plaza Building Satwa - Al Bada' - Dubai ,25.23088750,55.27114060
 Feve Patindol Pepito,"Has a private room,Give day off other than Sunday Negation,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,67JF+726 Dubai - United Arab Emirates,25.23066250,55.27251560
 BABELYN CAPOY NAVARRO,"Has a baby younger than 2 years old,Has 3 kids or more,Lives in Abu Dhabi",Filipina,67JF+V7 Dubai ,25.23218750,55.27318750
+IMELDA PINAYACAN BANTOG,"Has a baby younger than 2 years old,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,67JG+5J4 Dubai - United Arab Emirates satwa,25.23038750,55.27657810
 Dionisia Camang Calagui,"Has a dog,Lives in Abu Dhabi",Filipina,"67JG+C9 Dubai, 
 
 Satwa, Clinic",25.23111300,55.27590900
@@ -53,15 +51,12 @@ JONAH BANDIOLA SEVILLA,Lives in Abu Dhabi,Filipina,67VX+6C Dubai adcb metro,25.2
 CHRISTINE NAGAWA,"Has a baby younger than 2 years old,Has a dog,Lives in Abu Dhabi",African,"78C5+P66 - Dubai - United Arab Emirates
 https://maps.app.goo.gl/XGKaJHRGuer9GqTJ8",24.45479950,54.35742890
 Julian Namuwonge,"Has a cat,Has a dog,Has a private room,Lives in Abu Dhabi,Has a baby younger than 2 years old",African,78C6+MQQ Dubai - United Arab Emirates,25.27171250,55.31198440
-BRENDA IMMACULATE NAKANWAGI,"Has a baby younger than 2 years old,Lives in Abu Dhabi,Has a dog,Has a cat",African,78C7+VFV - Naif - Deira - Dubai - United Arab Emirates,25.27223750,55.31367190
 Christiana Aku Amartey,"Lives in Abu Dhabi,Has a baby younger than 2 years old",African,78C8+7V3 Dubai - United Arab Emirates,25.27063750,55.31717190
 CELESTINE JEPKETER BELIO,"Has a cat,Lives in Abu Dhabi",African,78F3+637 Building - Shop 5 - Al Sabkha Rd - near London Hotel - Deira - Ayal Nasir - Dubai,25.27447100,55.30200870
 SUSAN WAITHERA THUKU,Lives in Abu Dhabi,African,78F3+637 Building - Shop 5 - Al Sabkha Rd - near London Hotel - Deira - Ayal Nasir - Dubai,25.27447100,55.30200870
 RITAH NAKAJUBI,"Has 3 kids or more,Has a cat,Has a dog,Lives in Abu Dhabi",African,78F4+8Q Dubai deira,25.27331250,55.30693750
 REHEMA BALUKA,"Lives in Abu Dhabi,Has a dog,Has a cat",African,78F7+455 - Naif - Dubai ,25.27276250,55.31298440
-RUTH WANJIRU MBOGO,"Has a baby younger than 2 years old,Lives in Abu Dhabi",African,78H3+HQ Dubai Deira,25.27893750,55.30443750
 EVA CAROLINE NAKATE,Has a baby younger than 2 years old,African,78H4+2R Dubai FAAZ,25.27756250,55.30706250
-BETTY ESTHER KIMONO,"Has a cat,Has a dog,Lives in Abu Dhabi",African,78JW+27 Dubai abu hail,25.28006250,55.34568750
 JASSY TAGARO BAQUERESA,"Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,89PR+MM4 Sharjah - United Arab Emirates,25.33663750,55.39170310
 FRIDAH CHONI MWALUNGO,"Has 3 kids or more,Has a cat,Has a dog,Lives in Abu Dhabi",African,676G+F6 Dubai financial center metro station,25.21116620,55.27558210
 GRACE NYIVA NZIOKA,"Has a cat,Lives in Abu Dhabi",African,786G+53 Dubai - United Arab Emirates,25.26043750,55.32518750
@@ -93,6 +88,7 @@ KHADIJA KWEKWE MRISA.,"Has a baby younger than 2 years old,Has a dog,Lives in Ab
 
 ",25.27582750,55.33043800
 TABITHA KABUI GUANDARU,"Has a baby younger than 2 years old,Lives in Abu Dhabi,Has a cat",African,"AL HANAA CENTER, 67PJ+R28 - Al Mankhool Rd - Al Jafiliya - Dubai",25.23703430,55.28007030
+SALVACION PAPINA PAYANAY,"Has a baby younger than 2 years old,Give day off other than Sunday Negation,Lives in Abu Dhabi",Filipina,"Al Khail Gate Community Phase 2, Building K 1-8, Apartment 216, 47Q2+J2R - Al Quoz - Al Quoz Industrial Area 2 - Dubai",25.13278560,55.25806780
 EVE KYOTIBA,"Has a baby younger than 2 years old,Has a cat,Has a dog,Lives in Abu Dhabi",African,"Al Khail Gate, Phase-2",25.13721670,55.25394240
 MARY ANN BASILIO BALDERAMA,"Has 3 kids or more,Lives in Abu Dhabi",Filipina,"Al Maya Supermarket Satwa Branch
  25 Al Hudaiba Rd - Al Bada'a - Dubai 67HF+P9 Dubai",25.22933960,55.27345500
@@ -101,16 +97,14 @@ SHARON JEPNGETICH ROTICH,"Give day off other than Sunday Negation,Has a cat,Has 
  Hay Al Nahda - Al Nahda 1 - Sharjah 893F+5X Sharjah",25.30297340,55.37490610
 ROMELYN BURTANOG CABARLES,"Has a baby younger than 2 years old,Has a cat,Has a dog",Filipina,"Al Raha Building, Electra Street, behind Abeer Surgery Hospital, opposite Green House, Flat 801, Abu Dhabi",24.45388400,54.37734380
 NANCY MORAA ORINA,"Has a baby younger than 2 years old,Has a dog,Lives in Abu Dhabi",African,Al Rasheed Rd - Hor Al Anz - Dubai 78MP+2J Dubai,25.28073220,55.33187070
+Susan Mutonyi,Lives in Abu Dhabi,African,"Al Reem Building, X5WF+QV2 - Dubai Investment Park First - Green Community Village - Dubai - United Arab Emirates",24.99687900,55.17463940
 JANET LIMCO SUDARIA,"Has a baby younger than 2 years old,Has 3 kids or more,Has a cat,Lives in Abu Dhabi",Filipina,"Al Satwa Al Kabeer Masjid, Al Satwa Road - Al Satwa - Dubai",25.21937000,55.27288700
-DORICUS YIEKO ASIYOKE,Lives in Abu Dhabi,African,Al Satwa Road - Al Satwa - Dubai - United Arab Emirates,25.22262190,55.27055820
 FAUZA KAKATO,"Has a baby younger than 2 years old,Has a dog,Lives in Abu Dhabi",African,"Al thanya building
  5 5a St - Deira - Dubai 7899+9M Dubai",25.26839210,55.31918630
 HANNAH NJERI NYAMBURA,"Has a baby younger than 2 years old,Has a cat,Has a dog",African,Al Zahiyah - E13 - Abu Dhabi ,24.50028690,54.37448520
 CAUDENCIA JEMELI,"Has a baby younger than 2 years old,Has a dog,Lives in Abu Dhabi",African,alnadha 1 next to Sahara mall at Sharjah,25.29761370,55.37352320
 MARIVIC DEMETILLO MARTINEZ,"Has a baby younger than 2 years old,Has 3 kids or more",Filipina,behind Emirates plaza - Al Zahiyah - E13 - Abu Dhabi,24.50121790,54.37479120
 Grace Ballescas Coquilla,"Has a cat,Has a baby younger than 2 years old,Lives in Abu Dhabi",Filipina,"Belresheed Real Estate Building, Al Barsha 1, near Mall of the Emirates, Dubai. Location pin: https://maps.app.goo.gl/QnQWoc9P9EJu9PM39?g_st=iw",25.11538260,55.20302720
-ROSALIE VILLARAZA ANTIOLA,"Has a baby younger than 2 years old,Lives in Abu Dhabi,Has a dog,Has a cat",Filipina,"Bin Shabib Building 2
- 38 39B St - Deira - Dubai",25.26644500,55.32932170
 GAYANI MENAKA WICKRAMASINGHE ABEWARDANA,"Give day off other than Sunday Negation,Has a cat,Has a dog",African,"Building C34, Near Safeer Center, Shabiya 9, 5th Floor, 502",24.34281990,54.53005920
 NADETH BAS SEGOVIA,"Has 3 kids or more,Has a cat,Has a dog",Filipina,"Dampa Building, Najdah Street, Abu Dhabi City, Flat 1301",24.49444670,54.36613380
 SUSAN AMPAIRE,Lives in Abu Dhabi,African,Deira 789G+54 Dubai,25.26793750,55.32531250
@@ -133,10 +127,8 @@ NURIAT NAMPANGA,Has a baby younger than 2 years old,African,"LLH Hospital
 DOREEN NAKYEMBE,Lives in Abu Dhabi,African,"Manila Shopping Mall, Satwa - Dubai
  67JC+5X4 - Al Hudaiba Rd - Al Bada'a - Dubai ",25.23038780,55.27246750
 GENEVIVE PAYPA MEDRIANO,"Has 3 kids or more,Has a cat,Has a dog",Filipina,Marina royal compound F8F8+JQ Abu Dhabi,24.47406250,54.31693750
-Careen Ajiambo Odwori,"Has a baby younger than 2 years old,Has a cat,Has a dog,Lives in Abu Dhabi",African,near Burj Khalifa/ Dubai Mall Metro Station,25.20139810,55.26946490
 DIVINA BERMOY DELIMA,Has 3 kids or more,Filipina,near Emirates plaza hotel,24.50121790,54.37479120
 ANGELAH KWAMBOKA NDEGE,"Has a baby younger than 2 years old,Lives in Abu Dhabi",African,near max metro station 67MR+CV Dubai,25.23361890,55.29212940
-MARY ANN ENCIO DIAZ,Lives in Abu Dhabi,Filipina,"Pili Pili BBQ House Restaurant, 37 35th St - Al Jafiliya - Dubai",25.23649140,55.28375330
 ARBAIYA CASIM GUIANDAL,Has a baby younger than 2 years old,Filipina,"Ramlat Street, Villa 24, opposite Khalidiya Police Station, Abu Dhabi",24.46529430,54.35241810
 Seth Magracia Pampilo,"Has a baby younger than 2 years old,Has a cat,Lives in Abu Dhabi",Filipina,"Room 426, 2nd December Street, Al Jaffiliya, Satwa, Dubai",25.23226430,55.28397080
 DIANA MBAIRE NJUGUNA,"Has a baby younger than 2 years old,Has a cat",African,"Salah Al Din Metro Station 1, Al Muraqqabat, Deira, Dubai",25.27033000,55.31988100
