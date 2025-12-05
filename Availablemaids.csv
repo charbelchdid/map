@@ -2,6 +2,7 @@ Maid Name,Matching types,Nationality,Address,Latitude,Longitude
 MARGARET WAMBUGHA MWAWAZA,"Has a cat,Has a dog,Lives in Abu Dhabi",African,"
 Abu Dhabi",24.45388400,54.37734380
 ELIZABETH NAKIYEMBA,"Has a cat,Has a dog,Lives in Abu Dhabi",African,5CF4+CJC Dubai - United Arab Emirates,25.17356250,55.40651560
+CAROLYNE NAKIWU,Lives in Abu Dhabi,African,5CM2+J7Q - Al Warqa - Al Warqa 1 - Dubai ? United Arab Emirates,25.18408750,55.40073440
 FREDRICA OBENEWAA,"Has a dog,Lives in Abu Dhabi",African,7C8M+686 - Muhaisanah Second - Muhaisanah 2 - Dubai,25.26553750,55.43326560
 SHAMIRA NAMUGGA,Lives in Abu Dhabi,African,"7HQQ775P+3X Dubai - 
 Al Raffa ",25.25768750,55.28743750
@@ -43,7 +44,6 @@ IMELDA PINAYACAN BANTOG,"Has a baby younger than 2 years old,Has a cat,Has a dog
 Dionisia Camang Calagui,"Has a dog,Lives in Abu Dhabi",Filipina,"67JG+C9 Dubai, 
 
 Satwa, Clinic",25.23111300,55.27590900
-MILKA WANJIRU GICHERE,"Has a baby younger than 2 years old,Lives in Abu Dhabi",African,67JH+GW9 Dubai - United Arab Emirates,25.23128750,55.27985940
 ANABELLE INDAC EVANGELISTA,"Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,67MF+4C Dubai satwa,25.23281250,55.27356250
 NAOMI DE VEYRA ERANG,"Has a baby younger than 2 years old,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,67MG+JG Dubai satwa ,25.23406250,55.27631250
 MARIA CRISTIRINA MATA GIL,"Has a baby younger than 2 years old,Give day off other than Sunday Negation,Lives in Abu Dhabi",Filipina,67MG+MM Dubai,25.23418750,55.27668750
@@ -161,7 +161,6 @@ DOREEN NAKYEMBE,Lives in Abu Dhabi,African,"Manila Shopping Mall, Satwa - Dubai
 GENEVIVE PAYPA MEDRIANO,"Has 3 kids or more,Has a cat,Has a dog",Filipina,Marina royal compound F8F8+JQ Abu Dhabi,24.47406250,54.31693750
 Careen Ajiambo Odwori,"Has a baby younger than 2 years old,Has a cat,Has a dog,Lives in Abu Dhabi",African,near Burj Khalifa/ Dubai Mall Metro Station,25.20139810,55.26946490
 DIVINA BERMOY DELIMA,Has 3 kids or more,Filipina,near Emirates plaza hotel,24.50121790,54.37479120
-ANGELAH KWAMBOKA NDEGE,"Has a baby younger than 2 years old,Lives in Abu Dhabi",African,near max metro station 67MR+CV Dubai,25.23361890,55.29212940
 ARBAIYA CASIM GUIANDAL,Has a baby younger than 2 years old,Filipina,"Ramlat Street, Villa 24, opposite Khalidiya Police Station, Abu Dhabi",24.46529430,54.35241810
 Seth Magracia Pampilo,"Has a baby younger than 2 years old,Has a cat,Lives in Abu Dhabi",Filipina,"Room 426, 2nd December Street, Al Jaffiliya, Satwa, Dubai",25.23226430,55.28397080
 DIANA MBAIRE NJUGUNA,"Has a baby younger than 2 years old,Has a cat",African,"Salah Al Din Metro Station 1, Al Muraqqabat, Deira, Dubai",25.27033000,55.31988100
