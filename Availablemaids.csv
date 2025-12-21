@@ -1,4 +1,5 @@
 Maid Name,Matching types,Nationality,Address,Latitude,Longitude
+Jemilat Oluwakemi Sanusi,"Has a cat,Has a dog,Lives in Abu Dhabi",African,"3b, al bada'ar jumeira",25.20279120,55.24131950
 ELIZABETH NAKIYEMBA,"Has a cat,Has a dog,Lives in Abu Dhabi",African,5CF4+CJC Dubai - United Arab Emirates,25.17356250,55.40651560
 CAROLYNE NAKIWU,Lives in Abu Dhabi,African,5CM2+J7Q - Al Warqa - Al Warqa 1 - Dubai ? United Arab Emirates,25.18408750,55.40073440
 REHEMA BABIRYE,Give day off other than Sunday Negation,African,"6QCH+7CH Al Ain, Abu Dhabi - United Arab Emirates Al Ain
@@ -32,6 +33,8 @@ LUCY NJERI MURIMI,"Has a cat,Lives in Abu Dhabi",African,67FC+H22 Dubai - United
 MALLEN VIDAJI MUDAMBI,"Has a baby younger than 2 years old,Lives in Abu Dhabi,Has a cat",African,67FC+H26 Dubai - United Arab Emirates,25.22391250,55.27001560
 EVELYN OMAX RAMIREZ,"Has 3 kids or more,Lives in Abu Dhabi",Filipina,67G9+3Q Dubai,25.22518750,55.26943750
 Mely Duno Diaz,"Give day off other than Sunday Negation,Has a baby younger than 2 years old,Lives in Abu Dhabi",Filipina,67GF+RP5 Dubai - United Arab Emirates,25.22701250,55.27435940
+JULIE PEARL LATOSA INDONG,"Has 3 kids or more,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,"67HC+VVX Dubai - United Arab Emirates
+",25.22973750,55.27223440
 Icyle Piong Abis,"Give day off other than Sunday Negation,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,67HC+WV6 Dubai - United Arab Emirates,25.22978750,55.27214060
 SANDUSHIKA SATHSARANI SILVA PINGAMAGE,"Has a baby younger than 2 years old,Lives in Abu Dhabi",African,67HF+P9 Dubai,25.22931250,55.27343750
 MARIETA LOZANO EBOJO,"Has a baby younger than 2 years old,Lives in Abu Dhabi",Filipina,67JC+5X4 - Al Hudaiba Rd - Al Bada' - Dubai,25.23192700,55.26784750
@@ -40,8 +43,11 @@ BABELYN CAPOY NAVARRO,"Has a baby younger than 2 years old,Has 3 kids or more,Li
 RAZIA SAYYED HEERA LAL SAYYED,"Has a cat,Has a dog,Lives in Abu Dhabi",African,67JG+C9 Dubai,25.23106250,55.27593750
 MAYLIN ELOCAT LUCAS,"Has a private room,Has a baby younger than 2 years old,Has a cat,Lives in Abu Dhabi",Filipina,67JG+H7Q Dubai - United Arab Emirates,25.23146250,55.27573440
 CATHERINE CHAMAERE,"Has a cat,Lives in Abu Dhabi",African,67JG+WV Dubai satwa,25.23231250,55.27718750
+ELIZABETH NYAMBURA KARIUKI,"Has a cat,Has a dog,Lives in Abu Dhabi",African,67MF+FQ Dubai satwa,25.23368750,55.27443750
 NAOMI DE VEYRA ERANG,"Has a baby younger than 2 years old,Lives in Abu Dhabi",Filipina,67MG+JG Dubai satwa ,25.23406250,55.27631250
 MARIA CRISTIRINA MATA GIL,"Has a baby younger than 2 years old,Give day off other than Sunday Negation,Lives in Abu Dhabi",Filipina,67MG+MM Dubai,25.23418750,55.27668750
+Christian Rondobio Calog,"Give day off other than Sunday Negation,Has a baby younger than 2 years old,Has a dog,Lives in Abu Dhabi",Filipina,"67MG+QPP Dubai - United Arab Emirates
+",25.23446250,55.27682810
 ANGELA GONEDA GABUTAN,"Has a baby younger than 2 years old,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,67MJ+HH Dubai - United Arab Emirates,25.23393750,55.28143750
 DIVINAH KEMUNTO ANGWARA,Lives in Abu Dhabi,African,67MP+4H Dubai satwa ,25.23281250,55.28643750
 DUSHANTHI SANDAMALI YAHATHUGODA BADUGE,"Has a cat,Lives in Abu Dhabi",African,67PH+27 Dubai satwa ,25.23506250,55.27818750
@@ -154,7 +160,6 @@ TRACY NAMUTEBI,"Has a baby younger than 2 years old,Has a cat,Has a dog,Lives in
 ",25.27079530,55.30854640
 SARON MORAA,"Has a baby younger than 2 years old,Lives in Abu Dhabi,Has a dog",African,Satwa,25.21937000,55.27288700
 BARBETTE BALABA AGUINALDO,"Has a baby younger than 2 years old,Give day off other than Sunday Negation,Has a dog,Lives in Abu Dhabi",Filipina,satwa,25.21937000,55.27288700
-JINGKY MACABODBOD ELLESO,"Has a baby younger than 2 years old,Has a private room,Give day off other than Sunday Negation,Lives in Abu Dhabi",Filipina,satwa,25.21937000,55.27288700
 RACHAEL NASAKA NAMASAKA,"Has a baby younger than 2 years old,Lives in Abu Dhabi",African,SATWA 67MF+FMP Dubai - United Arab Emirates,25.23371250,55.27420310
 Santaveronica Patulot Dimaano,"Has 3 kids or more,Has a cat,Has a dog,Lives in Abu Dhabi",Filipina,"Satwa , bakri building , near the big mosque",25.21937000,55.27288700
 EVELYN PADERNILLA COQUINGAN,"Has a baby younger than 2 years old,Lives in Abu Dhabi",Filipina,Satwa near bus station,25.21937000,55.27288700
